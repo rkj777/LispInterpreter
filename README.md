@@ -1,2 +1,2 @@
 # LispInterpreter
-A Lisp Interpreter written in Lisp that handles basic Lisp programs
+A Lisp Interpreter written in Lisp that will run basic Lisp programs
